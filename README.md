@@ -6,7 +6,7 @@ Creating a hybrid deep learning model using Self Organizing maps and Artificial 
 
 - Credit_Card_Applications.csv : The Dataset file in csv (comma separated values) format
 
-- minisom.py : Class used for creating the self organizing map
+- minisom.py : Class used for creating the self organizing map , https://github.com/JustGlowing/minisom
 
 - Hybrid Deep Learning.py : Main python file containing the project code
 
