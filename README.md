@@ -21,22 +21,22 @@ This dataset is interesting because there is a good mix of attributes -- continu
 
 ## Attribute Information
 
-A1:	b, a. 
-A2:	continuous. 
-A3:	continuous. 
-A4:	u, y, l, t. 
-A5:	g, p, gg. 
-A6:	c, d, cc, i, j, k, m, r, q, w, x, e, aa, ff. 
-A7:	v, h, bb, j, n, z, dd, ff, o. 
-A8:	continuous. 
-A9:	t, f. 
-A10:	t, f. 
-A11:	continuous. 
-A12:	t, f. 
-A13:	g, p, s. 
-A14:	continuous. 
-A15:	continuous. 
-A16: +,- (class attribute)
+1. A1:	b, a. 
+2. A2:	continuous. 
+3. A3:	continuous. 
+4. A4:	u, y, l, t. 
+5. A5:	g, p, gg. 
+6. A6:	c, d, cc, i, j, k, m, r, q, w, x, e, aa, ff. 
+7. A7:	v, h, bb, j, n, z, dd, ff, o. 
+8. A8:	continuous. 
+9. A9:	t, f. 
+10. A10:	t, f. 
+11. A11:	continuous. 
+12. A12:	t, f. 
+13. A13:	g, p, s. 
+14. A14:	continuous. 
+15. A15:	continuous. 
+16. A16: +,- (class attribute)
 
 
 ## Results 
